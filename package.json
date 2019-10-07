@@ -1,0 +1,13 @@
+{
+  "name": "githubactiontest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yakio0613/githubactiontest.git",
+  "author": "hasunuma yoshio <yakki0613@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.1.3",
+    "@actions/github": "^1.1.0",
+    "@zeit/ncc": "^0.20.5"
+  }
+}
