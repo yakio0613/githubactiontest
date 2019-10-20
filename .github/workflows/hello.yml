@@ -3,7 +3,7 @@ on: push
 
 jobs:
   test:
-    name: Greeting
+    name: TestJob
     runs-on: ubuntu-latest
     steps:
       - run: echo "Hello, World!"
